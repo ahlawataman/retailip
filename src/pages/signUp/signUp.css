@@ -1,0 +1,42 @@
+.signUp {
+    height: calc(100vh - 0.7px);
+    flex:1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.logo {
+    height: 4.75rem;
+}
+
+.flex-child1 {
+    flex: 1.5;
+    height: 100%;
+    padding-top: 25vh;
+    padding-left: 100px;
+}
+
+.flex-child2 {
+    flex: 1;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.heading {
+    margin-top: 20px;
+}
+
+.heading1 {
+    font-size: 1.25rem;
+    color: black;
+}
+
+.heading2 {
+    font-size: 1.75rem;
+    font-weight: bold;
+    letter-spacing: 2px;
+    color: black;
+}
